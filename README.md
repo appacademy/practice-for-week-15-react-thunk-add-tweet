@@ -5,6 +5,11 @@ In the videos, you learned how to create a _thunk_ as well as how to create a
 middleware all the way to the component. Now it's your turn to create a `POST`
 route for the tweets.
 
+## Setup
+
+Clone the starter repo accessible from the `Download Project` button at the
+bottom of this page.
+
 ## Backend
 
 Take a moment to look through all of the backend code. Then do the following:
