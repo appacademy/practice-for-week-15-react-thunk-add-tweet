@@ -66,7 +66,9 @@ of what you need to do:
 
 ### Component
 
-- Create a form in the __CreateTweet.js__ file's `CreateTweet` component.
+- Add a __CreateTweet.js__ file inside the __frontend/src__ directory.
+- In __CreateTweet.js__, code a `CreateTweet` component that returns a simple
+  form for creating a tweet.
 - Use local state for the tweet information.
 - Use a `handleSubmit` function to check if the tweet is empty. If it isn't,
   dispatch the tweet using the thunk action creator.
