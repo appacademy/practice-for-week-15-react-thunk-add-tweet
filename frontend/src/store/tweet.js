@@ -1,4 +1,3 @@
-// constant to avoid debugging typos
 const GET_ALL_TWEETS = 'tweet/getAllTweets';
 
 //regular action creator
